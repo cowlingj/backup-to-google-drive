@@ -1,0 +1,6 @@
+{
+ "kind": "drive#file",
+ "id": "17ICGWTzTw1RbVcKlbl-5B3WzBjZGLrW3",
+ "name": "file.test.gz",
+ "mimeType": "application/x-gzip"
+}

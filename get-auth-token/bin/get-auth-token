@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+BASE="$(dirname "$(dirname "$(readlink -f "$BASH_SOURCE")" )" )"
+source "$BASE/src/get-auth-token.sh"
